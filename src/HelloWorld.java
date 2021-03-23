@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Tutaj Borys");
         System.out.println("tutaj Lukasz");
         System.out.println("tutaj Przemek");
+        System.out.println("tutaj Adam :p");
     }
 }
